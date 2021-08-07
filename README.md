@@ -1,2 +1,2 @@
-# Welcome to the repo for my english blog site!
-## I also have a blog in Spanish: [mi-blog](https://github.com/danieldemercado/mi-blog)
+# Welcome to the repo for my English blog site!
+## También tengo un blog en Español: [mi-blog](https://github.com/danieldemercado/mi-blog)
